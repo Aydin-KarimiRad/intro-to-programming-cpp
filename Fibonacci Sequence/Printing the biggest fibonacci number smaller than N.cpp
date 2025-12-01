@@ -11,7 +11,6 @@ void main()
 	while (a < n) {
 		last_num = a;
 		c = a + b;
-		//last_num = c;
 		a = b;
 		b = c;
 	}
